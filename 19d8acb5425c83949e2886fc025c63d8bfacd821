@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//+iE\u003d",
+        "filename": "libcamera/LibCameraWrapper.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-08T13:49:52Z",
+      "side": 1,
+      "message": "Not sure whether you really need the initializer (the wp constructor should take care of it), but it shouldn\u0027t harm either.",
+      "revId": "19d8acb5425c83949e2886fc025c63d8bfacd821",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
