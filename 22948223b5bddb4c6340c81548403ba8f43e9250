@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3///hM\u003d",
+        "filename": "libaudio/AudioHardware.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1479
+      },
+      "writtenOn": "2011-08-25T21:13:09Z",
+      "side": 1,
+      "message": "This will break build for devices which does not have HAVE_FM_RADIO defined, as the variable declaration is in an #ifdef block",
+      "revId": "22948223b5bddb4c6340c81548403ba8f43e9250",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
