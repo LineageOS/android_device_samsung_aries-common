@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3//+l0\u003d",
+        "filename": "overlay/packages/apps/CMParts/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-01T17:33:54Z",
+      "side": 1,
+      "message": "The Samsung devices don\u0027t have a trackball, right?",
+      "revId": "bbaa96bccbb2798c8017eae28132bd264c25ae53",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAH3//+mA\u003d",
+        "filename": "overlay/packages/apps/CMParts/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-01T17:33:54Z",
+      "side": 1,
+      "message": "Please remove that as your CMParts patch removes the flag as well.",
+      "revId": "bbaa96bccbb2798c8017eae28132bd264c25ae53",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAH3//+l8\u003d",
+        "filename": "overlay/packages/apps/CMParts/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-01T17:33:54Z",
+      "side": 1,
+      "message": "At least the I9000 doesn\u0027t have a search button. Do other aries devices have it?",
+      "revId": "bbaa96bccbb2798c8017eae28132bd264c25ae53",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
