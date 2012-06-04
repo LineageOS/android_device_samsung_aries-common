@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+qE\u003d",
+        "filename": "AriesParts/src/com/cyanogenmod/settings/device/DeviceSettings.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2012-06-04T18:31:06Z",
+      "side": 1,
+      "message": "No need to set enable to true or false if we\u0027re going to remove it anyway, just leave it defaulted to true.",
+      "revId": "1600df6751d307a2069c2978a8c4aad7e3df5fd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//+qI\u003d",
+        "filename": "AriesParts/src/com/cyanogenmod/settings/device/DeviceSettings.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2012-06-04T18:31:06Z",
+      "side": 1,
+      "message": "Please use a constant.",
+      "revId": "1600df6751d307a2069c2978a8c4aad7e3df5fd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
