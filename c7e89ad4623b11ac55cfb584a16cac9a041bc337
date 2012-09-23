@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//9MQ\u003d",
+        "filename": "updater.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-09-23T04:50:31Z",
+      "side": 1,
+      "message": "\u003c3",
+      "revId": "c7e89ad4623b11ac55cfb584a16cac9a041bc337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//9MM\u003d",
+        "filename": "updater.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2012-09-23T04:50:31Z",
+      "side": 1,
+      "message": "s/memory/partition/",
+      "revId": "c7e89ad4623b11ac55cfb584a16cac9a041bc337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
