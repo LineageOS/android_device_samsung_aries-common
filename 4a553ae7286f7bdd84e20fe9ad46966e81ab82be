@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//8jE\u003d",
+        "filename": "power/power.c",
+        "patchSetId": 5
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2012-09-25T09:29:16Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "4a553ae7286f7bdd84e20fe9ad46966e81ab82be",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
