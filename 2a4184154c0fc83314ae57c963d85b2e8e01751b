@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3///ac\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:30:04Z",
+      "side": 1,
+      "message": "Aangezien het hier om een koptelefoon zonder eigen microfoon gaat heb ik het in patch set 5 veranderd in microfoon bij koptelefoon.",
+      "revId": "2a4184154c0fc83314ae57c963d85b2e8e01751b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
