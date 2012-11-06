@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3//+/g\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-11-06T19:58:29Z",
+      "side": 1,
+      "message": "Speaker voorkant? Anders is oortelefoon ook goed.",
+      "parentUuid": "AAAAa3///K8\u003d",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///YA\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 5
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "\"Volume via Bluetooth\" wordt het dan (Bluetooth wordt in \"Instellingen\" ook altijd met een hoofdletter geschreven).",
       "parentUuid": "AAAAa3///YA\u003d",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+/4\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-11-06T19:58:30Z",
+      "side": 1,
+      "message": "http://nl.wikipedia.org/wiki/Bluetooth\n\nZonder hoofdletter",
+      "parentUuid": "AAAAa3///LU\u003d",
       "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
