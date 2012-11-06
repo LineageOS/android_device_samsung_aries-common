@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///bg\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///cU\u003d",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///cQ\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2012-11-06T03:45:19Z",
       "side": 1,
       "message": "Ik heb liever \u0027oortje\u0027...",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///bU\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///cQ\u003d",
       "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///bc\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///cM\u003d",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///cI\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -64,6 +118,24 @@
       "writtenOn": "2012-11-06T03:45:19Z",
       "side": 1,
       "message": "^^",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///bQ\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///cI\u003d",
       "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///bY\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///cE\u003d",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///cA\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -98,6 +188,24 @@
       "writtenOn": "2012-11-06T03:45:19Z",
       "side": 1,
       "message": "Maar als dit zonder microfoon is, dan is dit een koptelefoon en wordt er in bovenstaande strings gesproken over headsets...",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///a8\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Je hebt gelijk, hier is het een losse koptelefoon waar geen microfoon in/aan zit. Aangepast. Voor de volledig laat ik hier wel \"zonder microfoon\" achter staan, zodat het onderscheid met headset helder is.",
+      "parentUuid": "AAAAa3///cA\u003d",
       "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///bA\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///b8\u003d",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///b4\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -138,6 +264,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///bE\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///b4\u003d",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///b0\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 3
@@ -149,6 +293,24 @@
       "writtenOn": "2012-11-06T03:45:19Z",
       "side": 1,
       "message": "Misschien de laatste zin herschrijven als:\n- Hierdoor kunnen problemen optreden met uw mobiele netwerkverbinding, inclusief het niet kunnen bellen van het alarmnummer.",
+      "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///bI\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T04:00:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAa3///b0\u003d",
       "revId": "b039c2d9166a0b61c8010a0d71d564727fd3de7a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
