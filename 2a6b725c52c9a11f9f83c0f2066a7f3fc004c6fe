@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3///dg\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-06T02:59:51Z",
+      "side": 1,
+      "message": "moet hier ook nog niet het woord \"aanpassen\" bij?\n\n- mDNIe schermnabewerking aanpassen",
+      "revId": "2a6b725c52c9a11f9f83c0f2066a7f3fc004c6fe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
