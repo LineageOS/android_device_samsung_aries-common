@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3///YU\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-06T05:53:58Z",
+      "side": 1,
+      "message": "Bij \"oortje\" denk ik aan een los oortje, maar het gaat hier toch om de speaker in de telefoon die je tegen je oor drukt?\nLosse oortjes vallen onder de koptelefoons.",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
