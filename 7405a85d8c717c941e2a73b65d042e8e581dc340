@@ -16,6 +16,23 @@
       "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///YA\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-06T05:58:09Z",
+      "side": 1,
+      "message": "moet \u0027Bluetooth\u0027 met een hoofdletter?\n\nmiscchien moet er staan\n\n- Volume via bluetooth\n\n?",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
