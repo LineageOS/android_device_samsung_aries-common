@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3///K8\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T14:59:07Z",
+      "side": 1,
+      "message": "Je hebt gelijk ik heb het namelijk net even getest :) Het gaat om het volume dat uit de oor-speaker van de telefoon zelf komt (en niet een oortje, of de sterkere speaker achterop).\nWat is hier de beste vertaling voor, toch oortelefoon?",
+      "parentUuid": "AAAAa3///YU\u003d",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3///YA\u003d",
         "filename": "AriesParts/res/values-nl/strings.xml",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2012-11-06T05:58:09Z",
       "side": 1,
       "message": "moet \u0027Bluetooth\u0027 met een hoofdletter?\n\nmiscchien moet er staan\n\n- Volume via bluetooth\n\n?",
+      "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3///LU\u003d",
+        "filename": "AriesParts/res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-06T14:59:07Z",
+      "side": 1,
+      "message": "\"Volume via Bluetooth\" wordt het dan (Bluetooth wordt in \"Instellingen\" ook altijd met een hoofdletter geschreven).",
+      "parentUuid": "AAAAa3///YA\u003d",
       "revId": "7405a85d8c717c941e2a73b65d042e8e581dc340",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
