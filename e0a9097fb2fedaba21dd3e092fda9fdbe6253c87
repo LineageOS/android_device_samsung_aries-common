@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//8Bs\u003d",
+        "filename": "AriesParts/src/com/cyanogenmod/settings/device/ColorTuningPreference.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2012-11-16T18:03:05Z",
+      "side": 1,
+      "message": "Shouldn\u0027t we override it in GammaSeekBar rather than the confusing if case here?",
+      "revId": "e0a9097fb2fedaba21dd3e092fda9fdbe6253c87",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
