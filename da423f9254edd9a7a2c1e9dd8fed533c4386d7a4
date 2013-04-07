@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//9vM\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-04-07T06:03:03Z",
+      "side": 1,
+      "message": "kalibracja kolorow?",
+      "revId": "da423f9254edd9a7a2c1e9dd8fed533c4386d7a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9vI\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-04-07T06:03:03Z",
+      "side": 1,
+      "message": "przyciskow dotykowych?",
+      "revId": "da423f9254edd9a7a2c1e9dd8fed533c4386d7a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9vE\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-04-07T06:03:03Z",
+      "side": 1,
+      "message": "[...] do wyjscia TV. Zaznacz, aby [...]",
+      "revId": "da423f9254edd9a7a2c1e9dd8fed533c4386d7a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//9u8\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-04-07T06:03:03Z",
+      "side": 1,
+      "message": "[...] w tym brak mozliwosci polaczenia z [...]",
+      "revId": "da423f9254edd9a7a2c1e9dd8fed533c4386d7a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
