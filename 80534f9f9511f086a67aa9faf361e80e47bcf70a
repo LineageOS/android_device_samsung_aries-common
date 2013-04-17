@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAen//5zA\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2013-04-17T10:42:21Z",
+      "side": 1,
+      "message": "@Krzysiek K, you are right",
+      "parentUuid": "AAAAen//6DQ\u003d",
+      "revId": "80534f9f9511f086a67aa9faf361e80e47bcf70a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAen//9DY\u003d",
         "filename": "AriesParts/res/values-pl/strings.xml",
         "patchSetId": 4
@@ -101,6 +119,24 @@
       "side": 1,
       "message": "+1 mysle ze jak wyzej slowo \u0027dousznych\u0027 mozna by sobie darowac",
       "parentUuid": "AAAAen//9DY\u003d",
+      "revId": "80534f9f9511f086a67aa9faf361e80e47bcf70a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//5y4\u003d",
+        "filename": "AriesParts/res/values-pl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2013-04-17T10:42:21Z",
+      "side": 1,
+      "message": "as above",
+      "parentUuid": "AAAAen//6DM\u003d",
       "revId": "80534f9f9511f086a67aa9faf361e80e47bcf70a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
