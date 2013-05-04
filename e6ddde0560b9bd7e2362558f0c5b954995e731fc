@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfX//+r4\u003d",
+        "filename": "AriesParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-04T20:20:32Z",
+      "side": 1,
+      "message": "Temps vs Délai",
+      "revId": "e6ddde0560b9bd7e2362558f0c5b954995e731fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX//+r8\u003d",
+        "filename": "AriesParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-04T20:20:32Z",
+      "side": 1,
+      "message": "activée",
+      "revId": "e6ddde0560b9bd7e2362558f0c5b954995e731fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
