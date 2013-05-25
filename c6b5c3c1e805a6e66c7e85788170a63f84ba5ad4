@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iOGqNYU",
+        "filename": "AriesParts/res/values-fr/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-25T18:38:33Z",
+      "side": 1,
+      "message": "Apostrophe",
+      "revId": "c6b5c3c1e805a6e66c7e85788170a63f84ba5ad4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
