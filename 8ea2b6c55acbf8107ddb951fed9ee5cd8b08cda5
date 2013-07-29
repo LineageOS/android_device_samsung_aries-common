@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_533c242f",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-07-29T02:07:08Z",
+      "side": 1,
+      "message": "I think it should be safe to replace this, no references to this in the current bionic tree.",
+      "revId": "8ea2b6c55acbf8107ddb951fed9ee5cd8b08cda5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
