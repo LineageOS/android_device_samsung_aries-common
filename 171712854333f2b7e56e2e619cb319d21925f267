@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_4ba7c04f",
+        "filename": "device_base.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 167,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-08-04T00:22:59Z",
+      "side": 1,
+      "message": "use spaces, not tabs",
+      "revId": "171712854333f2b7e56e2e619cb319d21925f267",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
