@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_d693744e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2013-08-19T01:38:45Z",
+      "side": 1,
+      "message": "TVOut / HSPA Settings could go to hardware/samsung, and the rest can be here. (because p1/epicmtd don\u0027t have all the settings aries does.)",
+      "revId": "88f2ab4ab9f673652eaa4c4086a109c9bba61921",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
