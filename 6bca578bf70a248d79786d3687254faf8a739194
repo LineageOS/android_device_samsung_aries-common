@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_e0621ead",
+        "filename": "overlay/packages/apps/Gallery2/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 5811
+      },
+      "writtenOn": "2013-09-16T08:19:43Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be true for it to do anything?",
+      "revId": "6bca578bf70a248d79786d3687254faf8a739194",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
