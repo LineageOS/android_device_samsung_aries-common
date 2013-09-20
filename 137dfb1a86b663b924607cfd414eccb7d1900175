@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_48ac7fed",
+        "filename": "device_base.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-09-20T14:45:10Z",
+      "side": 1,
+      "message": "There\u0027s no need to remove the final \u0027\\\u0027. It allows a new line to be added without modifying the old line.",
+      "revId": "137dfb1a86b663b924607cfd414eccb7d1900175",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5afe65bd_68af3be4",
+        "filename": "device_base.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-09-20T14:45:10Z",
+      "side": 1,
+      "message": "this one isn\u0027t used any more",
+      "revId": "137dfb1a86b663b924607cfd414eccb7d1900175",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5afe65bd_88a957e2",
+        "filename": "device_base.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-09-20T14:45:10Z",
+      "side": 1,
+      "message": "This one is actually not used any more",
+      "revId": "137dfb1a86b663b924607cfd414eccb7d1900175",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
