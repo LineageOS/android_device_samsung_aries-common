@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5afe65bd_68961b96",
+        "filename": "device_base.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 3556
+      },
+      "writtenOn": "2013-09-20T14:57:49Z",
+      "side": 1,
+      "message": "This is true but those trailing slashes break the build on Gentoo and other distributions.",
+      "parentUuid": "5afe65bd_48ac7fed",
+      "revId": "137dfb1a86b663b924607cfd414eccb7d1900175",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5afe65bd_68af3be4",
         "filename": "device_base.mk",
         "patchSetId": 1
